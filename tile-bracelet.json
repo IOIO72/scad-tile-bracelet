@@ -1,0 +1,42 @@
+{
+    "parameterSets": {
+        "Peace Symbol (Symbola Font)": {
+            "$fn": "50",
+            "content": "[\"☮\", \"☮\", \"☮\", \"☮\", \"☮\", \"☮\", \"☮\", \"☮\", \"☮\", \"☮\", \"☮\", \"☮\"]",
+            "font": "Symbola:style=Regular",
+            "holes_count": "2",
+            "parts": "All",
+            "size": "[10, 15, 5]",
+            "spacer_width": "3",
+            "text_height": "0.6",
+            "text_size": "8",
+            "tile_radius": "4"
+        },
+        "Darling": {
+            "$fn": "50",
+            "content": "[\" \", \"D\", \"A\", \"R\", \"L\", \"I\", \"N\", \"G\", \" \"]",
+            "font": "Clicker Script:style=Regular",
+            "holes_count": "2",
+            "parts": "All",
+            "size": "[15, 15, 5]",
+            "spacer_width": "3",
+            "text_height": "0.8",
+            "text_size": "10",
+            "tile_radius": "8"
+        },
+        "Heart": {
+            "$fn": "50",
+            "content": "[\"♡\"]",
+            "font": "System Font:style=Regular",
+            "holes_count": "2",
+            "parts": "All",
+            "size": "[10, 15, 5]",
+            "spacer_width": "3",
+            "spacers_narrow": "true",
+            "text_height": "0.8",
+            "text_size": "9",
+            "tile_radius": "2.2"
+        }
+    },
+    "fileFormatVersion": "1"
+}
